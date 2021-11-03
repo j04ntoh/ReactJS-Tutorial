@@ -1,0 +1,9 @@
+.expenses-chart {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f9dfff;
+  border-radius: 12px;
+  min-height: 150px;
+  padding: 10px;
+}
